@@ -1,5 +1,10 @@
 # TLBO Algorithm Notes
 
+## Flowchart
+<p align="center">
+  <img src="TLBO_Algorithm_Flowchart.png" alt="TLBO Algorithm Flowchart" />
+</p>
+
 ## TLBO Overview
 - **Teacher Phase**: 
   - Generates new solutions using the best solution and the population mean.
