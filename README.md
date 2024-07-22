@@ -19,7 +19,7 @@ This method is used for solving various optimization problems by leveraging the 
 2. Navigate to the project directory: `cd Teaching-Learning-Based-Optimization-Algorithm`
 
 ## Usage Examples
-  - Run the PSO algorithm by executing the main.py file: `python TLBO Algorithm.ipynb`
+  - Run the PSO algorithm by executing the main.py file: `python TLBO_algorithm.ipynb`
 
 ## Example Output
 ```
