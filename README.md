@@ -3,8 +3,8 @@
 ![Teaching_Learning_based_Optimization](https://img.shields.io/badge/Teaching_Learning_based_Optimization-2011-%20teal?style=plastic)
 ![License](https://img.shields.io/badge/license%20-%20MIT%20-%20darkred?style=plastic)
 ![Python Version](https://img.shields.io/badge/Python-3-%20teal?style=plastic)
-![Open_Issues](https://img.shields.io/badge/Issues%20-%200%20-%20orange?style=plastic)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Open_Issues](https://img.shields.io/badge/Issues%20-%200%20-%20orange?style=plastic)
 
 ## Description
 This repository contains a Python implementation of the Teaching Learning-based Optimization (TLBO) algorithm. TLBO is a stochastic population-based optimization method inspired by classroom learning dynamics. In TLBO, individuals in a population act as both teachers and learners, engaging in iterative knowledge transfer to evolve solutions.
